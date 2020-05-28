@@ -5,3 +5,5 @@ if x == y:
     print("jsou stejne")
 elif x!=y:
     print("nejsou stejne")
+
+"""test 1"""

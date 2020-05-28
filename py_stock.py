@@ -6,4 +6,4 @@ if x == y:
 elif x!=y:
     print("nejsou stejne")
 
-"""test 1"""
+"test 1"
